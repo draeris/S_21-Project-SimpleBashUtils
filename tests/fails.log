@@ -1,0 +1,4 @@
+FAIL: grep stdin
+0a1
+> hello world
+---

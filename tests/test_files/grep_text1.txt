@@ -1,0 +1,10 @@
+Hello world
+HELLO WORLD
+This is a test file
+Another line with hello
+HELLO again
+Goodbye world
+The quick brown fox
+jumps over the lazy dog
+Hello hello hello
+Mixed CASE example

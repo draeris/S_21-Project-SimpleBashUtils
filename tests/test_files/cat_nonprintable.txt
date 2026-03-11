@@ -1,0 +1,7 @@
+Line with tab:	here
+Line with newline:
+second part
+Line with bell:
+Line with DEL:
+Line with ESC:
+Line with  control chars

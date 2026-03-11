@@ -1,0 +1,5 @@
+Hello world
+This is a simple text file
+For testing cat utility
+It has multiple lines
+With different content
